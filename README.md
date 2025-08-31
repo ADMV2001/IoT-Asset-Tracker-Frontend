@@ -1,4 +1,4 @@
-# Please refer the folloeing link for the backend
+# Please refer the following link for the backend
 # https://github.com/ADMV2001/IoT-Asset-Tracker-Backend.git
 # React + Vite
 
